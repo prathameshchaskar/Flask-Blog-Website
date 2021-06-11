@@ -1,0 +1,21 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/prathameshblogs",
+        "prod_uri": "mysql://root:@localhost/prathameshblogs",
+        "fb_url" : "https://facebook.com/prathameshblogs",
+        "tw_url" : "https://twitter.com/prathameshblogs",
+        "gh_url" : "https://github.com/prathameshblogs",
+        "blog_name" : "Prathameshblogs",
+        "gmail-user" : "prathameshactivity@gmail.com",
+        "gmail-password" : "lostinactivity",
+        "about_text" : "hey, my name is prathamesh...all details here..",
+        "no_of_posts" : 3,
+        "admin_user" : "Prathamesh",
+        "admin_password" : "Prathameshblogs",
+        "upload_location": "D:\\flask\\static"
+    
+    }
+
+}
